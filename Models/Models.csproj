@@ -47,6 +47,9 @@
     <Compile Include="LibAjedrez\Peon.cs" />
     <Compile Include="LibAjedrez\PiezaAjedrez.cs" />
     <Compile Include="LibAjedrez\Torre.cs" />
+    <Compile Include="LibPersona\Medico.cs" />
+    <Compile Include="LibPersona\Paciente.cs" />
+    <Compile Include="LibPersona\Persona.cs" />
     <Compile Include="Piano.cs" />
     <Compile Include="Violin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
