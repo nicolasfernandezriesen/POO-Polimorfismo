@@ -43,12 +43,14 @@
   <ItemGroup>
     <Compile Include="Guitarra.cs" />
     <Compile Include="InstrumentosMusicales.cs" />
+    <Compile Include="LibAjedrez\Caballo.cs" />
+    <Compile Include="LibAjedrez\Peon.cs" />
+    <Compile Include="LibAjedrez\PiezaAjedrez.cs" />
+    <Compile Include="LibAjedrez\Torre.cs" />
     <Compile Include="Piano.cs" />
     <Compile Include="Violin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="LibAjedrez\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
